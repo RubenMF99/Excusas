@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+.primary-color{
+    background-color: #004A87;
+}
+.secundary-color {
+    background-color: #D2DFEA;
+}
+input{
+    background:#f6f6f6
+}
+.text-color{
+    color: #004A87;
+}
+.text-secundary{
+    color:#D2DFEA;
+}
+body{
+    background:#f6f6f6;
+    font-family: 'Fira Sans', sans-serif;
+    padding-top: 10px;
+    background-color: #eee;
+    
+}
+.password-icon {
+    float: right;
+    position: relative;
+    margin: -25px 10px 0 0;
+    cursor: pointer;
+  }
+.mr{
+    margin-left: 20px;
+}
+.ml{
+    margin-left: -120px;
+}
+
+.btn-tam{
+    width: 100%;
+}
+.btn-tam2{
+    width: 80%;
+}
+
+.border_input{
+    border: none;
+}
+
+
+.excusa {
+    background-color: #004A87;
+    color: white;
+}
